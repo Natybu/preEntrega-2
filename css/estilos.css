@@ -29,6 +29,22 @@ h2{
     text-align: justify;
 }
 
+.imgGaleria{
+    max-width: 500px;
+    max-height: 500px;
+    padding: 20px;
+    box-shadow: 0px 10px 10px -6px black;
+    
+}
+
+.imgTienda{
+    max-width: 500px;
+    max-height: 500px;
+    padding: 20px;
+    box-shadow: 0px 10px 10px -6px black;
+    
+}
+
 footer{
     /* background-color: grey; */
     background-image: url(https://services.meteored.com/img/article/-por-que-las-estrellas-parpadean-de-noche--8371-2_1024.jpg);
